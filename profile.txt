@@ -1,4 +1,5 @@
 Name: Doan Cong Tri  
 Interests: Coding, Design
 Skills: HTML, CSS, C#, SQL
+Favorite Language: C#
 
